@@ -1,10 +1,12 @@
 # Jellyfin Live
 
+NOTE THIS README AND PROJECT IS NOT COMPLETE
+
 An unofficial complete solution to using Jellyfin's Live TV function.
 
 ## Acknowledgements
 
- - [We used the UK TV Guide from XMLTV](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [We used the UK TV Guide from XMLTV](google.com)
 
 
 ## Authors
